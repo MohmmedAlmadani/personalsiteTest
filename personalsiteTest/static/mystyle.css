@@ -1,0 +1,58 @@
+body {
+	background-color: coral;
+}
+
+h1 {
+	color: white;
+	text-align: center ;
+	font-size: 100px ;
+	border: solid;
+}
+h3 {
+	color: white;
+	text-align: center ;
+
+	border: solid;
+
+}
+
+p {
+	color :white;
+	font-size: 30px;
+	margin-left: 90px
+
+}
+
+ul {
+	color: green ;
+	font-size: 20;
+
+}
+
+
+a:hover {
+	color: red;
+	font-size: 50;
+
+}
+img {
+	display: block;
+	margin: auto;
+}
+
+button {
+ 	width: 700px;
+ 	margin: 30px auto;
+ 	margin-left:300px 
+
+}
+
+a{
+	margin-left: 550px
+}
+
+ul {
+	margin-left: 500px;
+	color: white;
+
+}
